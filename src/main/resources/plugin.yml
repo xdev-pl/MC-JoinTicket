@@ -1,0 +1,5 @@
+main: com.gmail.luxdevpl.jointicket.MainClass
+name: ${project.name}
+author: xdevpl (luxdevpl@gmail.com)
+description: ${project.description}
+version: ${project.version}
